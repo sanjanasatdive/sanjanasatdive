@@ -4,7 +4,7 @@
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/sanjana-satdive-625378212)
 
 ### Skills:
-Programming Languages:** Java 8, Java 17
+**Programming Languages:** Java 8, Java 17
 - **Frameworks and Libraries:** Hibernate, Spring, Spring Boot (IOC, AOP)
 - **Frontend Technologies:** HTML5, CSS3, Angular, React, Bootstrap
 - **Databases:** 
